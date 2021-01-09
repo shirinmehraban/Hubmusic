@@ -1,0 +1,349 @@
+.headerlogo {
+    /* Rectangle welcome */
+
+display: block;
+position: absolute;
+width: 407px;
+height: 100px;
+left: 528px;
+top: 67px;
+z-index: 1;
+
+background: rgba(124, 187, 244, 0.45);
+
+}
+
+.titr1 {
+
+    /* Welcome Back ! sing in to continue */
+
+
+    position: absolute;
+    width: 130px;
+    height: 29px;
+    left: 576px;
+    top: 89px;
+
+    font-family: Roboto;
+    font-style: bold;
+    font-weight: bold;
+    font-size: 13px;
+    line-height: 15px;
+
+    color: #0739EA;
+
+    font-family: Roboto;
+font-size: 15px;
+font-style: bold;
+font-weight: 700;
+line-height: 15px;
+letter-spacing: 0em;
+text-align: left;
+
+
+}
+
+.titr2 {
+  /*  sing in to continue to Hub Music */
+
+
+position: absolute;
+width: 193px;
+height: 16px;
+left: 576px;
+top: 102px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 14px;
+line-height: 16px;
+
+color: #0739EA;
+
+}
+
+.logo {
+position: absolute;
+width: 56.1px;
+height: 61.46px;
+left: 906.1px;
+top: 89px;
+
+transform: matrix(-1, 0, 0, 1, 0, 0);
+}
+
+.person {
+    /* Ellipse person */
+
+
+position: absolute;
+width: 56px;
+height: 56px;
+left: 557px;
+top: 140px;
+
+background: url(.png);
+}
+
+.mybody1 {
+    /* Rectangle grand(page) */
+
+position: absolute;
+width: 408px;
+height: 500px;
+left: 527px;
+top: 67px;
+
+background: rgba(219, 240, 252, 0.43);
+}
+
+.titr1{
+    /* Email */
+
+
+position: relative;
+width: 30px;
+height: 14px;
+left: 558px;
+top: 231px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 14px;
+/* identical to box height */
+
+
+color: #000000;
+
+}
+.box1 {
+    /* Rectangle email */
+
+
+position: absolute;
+width: 337px;
+height: 26px;
+left: 558px;
+top: 251px;
+
+background: #F8FCFE;
+border: 1px solid #B8B0B0;
+box-sizing: border-box;
+border-radius: 4px;
+
+font-family: Roboto;
+font-size: 12px;
+font-style: normal;
+font-weight: 400;
+line-height: 14px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+
+.titr2 {
+   /* Password */
+
+
+position: absolute;
+width: 53px;
+height: 14px;
+left: 558px;
+top: 303px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 14px;
+/* identical to box height */
+
+
+color: #000000; 
+}
+
+.box2 {
+    /* Rectangle password */
+
+
+position: absolute;
+width: 337px;
+height: 26px;
+left: 558px;
+top: 324px;
+
+background: #F8FCFE;
+border: 1px solid #B8B0B0;
+box-sizing: border-box;
+border-radius: 4px;
+
+}
+
+.remember {
+    /* Rectangle remember me */
+
+
+position: absolute;
+width: 100px;
+height: 20px;
+left: 558px;
+top: 368px;
+
+background: #FFFFFF;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 3px;
+
+/* Remember me */
+
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 14px;
+/* identical to box height */
+
+
+color: #000000;
+
+}
+
+.signin {
+    /* Sign in with */
+
+
+position: absolute;
+width: 62px;
+height: 14px;
+left: 682.68px;
+top: 442px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 14px;
+/* identical to box height */
+
+
+color: #000000;
+
+}
+
+.logofacebook {
+    /* Group logo face book */
+
+
+position: absolute;
+width: 26px;
+height: 26px;
+left: 683.68px;
+top: 464px;
+
+}
+
+.logogoogle {
+    /* logo google */
+
+
+position: absolute;
+width: 26px;
+height: 26px;
+left: 721.68px;
+top: 464px;
+
+}
+.key {
+    /* Group key */
+
+
+position: absolute;
+width: 9.81px;
+height: 15px;
+left: 639px;
+top: 495px;
+
+}
+
+.forgot {
+    /* Forgot your password */
+
+
+position: absolute;
+width: 117px;
+height: 14px;
+left: 665.68px;
+top: 497px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 14px;
+/* identical to box height */
+
+
+color: #000000;
+
+}
+
+.mybody2 {
+/* Rectangle sign up */
+
+
+position: absolute;
+width: 407px;
+height: 41px;
+left: 528px;
+top: 572px;
+
+background: rgba(219, 240, 252, 0.43);
+}
+
+.no-account {
+/* Don’t have an account ? */
+
+
+position: absolute;
+width: 127px;
+height: 14px;
+left: 632px;
+top: 588px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 14px;
+/* identical to box height */
+
+
+color: #000000;
+
+
+}
+
+.signup {
+/* Sign up now */
+
+
+position: absolute;
+width: 66px;
+height: 14px;
+left: 761px;
+top: 588px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 14px;
+/* identical to box height */
+
+
+color: #0739EA;
+
+}
